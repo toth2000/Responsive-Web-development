@@ -267,6 +267,8 @@
 
 .sticky .main-nav { margin-top: 5px; }
     .sticky .mobile-nav{ margin-top: 5px; }
+    
+    .sign-up-section h2{ margin-top: 10%;}
  
     
     
@@ -298,7 +300,7 @@
     
     .reviewer-image{ height: 45px;  margin-right: 5px; }
     
-    .reviewer{ font-size: 16px; font-weight: 400;}
+    .reviewer{ font-size: 16px; font-weight: 300;}
     
     .review{ line-height: 110%; }
     
