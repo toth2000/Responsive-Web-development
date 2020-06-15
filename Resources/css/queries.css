@@ -268,9 +268,7 @@
 .sticky .main-nav { margin-top: 5px; }
     .sticky .mobile-nav{ margin-top: 5px; }
     
-    .sign-up-section h2{ margin-top: 10%;}
- 
-    
+
     
 }
 
@@ -306,6 +304,8 @@
     
     .text-cross span{ display: inline-block;}
     
+     h2{ margin-top: 10%}
     
+    .sign-up-section h2{ margin-top: 10%;}
     
 }
