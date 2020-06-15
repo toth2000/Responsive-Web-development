@@ -1,0 +1,309 @@
+/* big tablet to 1200px(smaller than row width): from 1024 to 1200px*/
+@media only screen and (max-width: 1200px){
+    .hero-image-box{width: 100%; padding: 0 4%;}
+    .row{padding: 0 2%;
+        width: 90%;}
+   
+.review-col{ padding: 1%; word-spacing: 2px; letter-spacing: 1px; 
+    line-height: 185%; }
+
+.review{ margin-bottom: 10%; height: 280px; }
+
+.reviewer-image {  height: 70px; }
+
+
+.plan-box{
+    width: 95%;
+    padding-top: 1px;
+    margin-top: 0px;
+    padding-left: 5%;
+    font-size: 18px;
+    padding-right: 0px;
+}
+
+.sign-up-icon,
+.sign-up-icon-cross{ margin-right: 2%; }
+    
+.appstore {
+    margin-top: 0px;
+    width: 180px;
+    height: 60px;
+    }
+    
+
+.features h3{font-size: 16px; font-weight: 300;}
+    
+.features-para{ margin-bottom: 60px; }
+    
+}
+
+
+
+
+
+    
+
+/* Small tablet and big tablet: from 768 to 1023px*/
+@media only screen and (max-width: 1023px){
+    .logo{ height: 100px; }
+    
+    .main-nav{ font-size: 20px; }
+    
+    .main-nav li{ margin-left: 25px; font-weight: 400;}
+    
+    .features-para
+    {  margin-bottom: 45px;
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 125%;
+    width: 100%;
+    margin-left: 0%;  }
+    
+    .features h3{font-size: 15px; font-weight: 600}
+    
+    .features p{font-weight: 400;}
+    
+    .span-1-of-4 p
+    {  padding: 4%;
+    height: auto;
+    text-align: justify;
+    line-height: 110%;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+    font-size: 18px; width: 100%;  }
+    
+    .row{ width: 95%; padding: 0 2.5%;}
+    
+   .appstore 
+    { margin-top: 0px;
+    width: 170px;
+    height: 55px;
+    margin-left: 35px}
+    
+    .steps
+    {  margin-bottom: 50px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-size: 110%; font-weight: 600}
+    
+    .steps div
+    { height: 80px;
+    width: 80px;
+    font-size: 300%; font-weight: 300;
+    margin-right: 10px; }
+    
+    .city-col h3{ font-size: 24px; font-weight: 400; }
+    
+    .city-col{ width: 48%; padding: 2%; font-weight: 400;}
+    
+    .city-icon-box { margin-left: 7%; font-size: 115%; }
+    
+    .city{ margin: 0 3%;}
+    
+    .city h2{ margin-bottom: 0;}
+    
+    .review-section h2
+    { margin-top: 40px;
+    margin-bottom: 40px; }
+    
+    .review-col
+    { font-size: 150%; padding: 4%;
+    letter-spacing: 0px;
+    font-style: italic;
+    line-height: 180%; width: 100%;
+    margin-bottom: 5%}
+    
+    .review{ margin-bottom: 3%; height: auto; font-weight: 400;}
+    
+    .reviewer{text-align: end;}
+
+    .plan-box
+    { width: 100%;
+    padding-top: 1px;
+    margin-top: 0px;
+    padding-left: 3%;
+    font-size: 18px;
+    padding-right: 0px;font-weight: 300; }
+    
+    input[type=submit],
+    .button:link{ font-size: 120%; font-weight: 400; }
+   
+    
+    .plan-price
+    { font-size: 285%;
+    font-weight: 300; }
+    
+    .contact-form
+    { font-weight: 400; }
+    
+    footer{ font-weight: 400; }
+
+    footer ul li
+    { margin-right: 13px; }
+    
+    .text-cross span{ display: none;  }
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Small phones & tablets: from 481 to 767px*/
+@media only screen and (max-width: 767px){
+    
+    .row{ width: 98%; }
+    
+    .features-col{width: 100%; margin: 2% auto;}
+    
+    .features-para
+    {  margin-bottom: 30px; font-size: 16px;
+    text-align: center; }
+    
+    .features h3{margin-top: auto; margin-bottom: auto; font-size: 25px; font-weight: 400}
+    
+    
+    .span-1-of-4 p
+    {  padding: 4%;
+    height: auto;
+    text-align: justify;
+    line-height: 110%;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+    font-size: 18px; width: 100%;  }
+    
+    .sign-up-button-box :link{ font-size: 75%; }
+        
+    body{font-size: 75%;}
+    
+    .city-icon-box { margin-left: 14%; font-size: 120%; }
+    
+    .city-col { width: 100%; margin: 0 auto; padding: 0;}
+    
+    h2{ font-size: 180% }
+    
+    footer{ font-size: 88%; font-weight: 400; }
+
+    footer ul li
+    { margin-right: 8px; }
+    
+    .how-to2 
+    { margin-top: 25px; }
+
+
+    .app-photo{ height: 400px; }
+    
+    .how-to2 
+    {  margin-top: 35px;
+    padding-left: 0%; }
+    
+    .steps div
+    {  border-radius: 150%;
+    height: 50px;
+    width: 50px;
+    font-size: 250%;
+    margin-right: 5px; }
+
+    .steps
+    { margin-bottom: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 97%; }
+    
+    .how-to-head 
+    { margin-bottom: 20px; margin-top: 25px; }
+    
+    .appstore{ display: block; margin: 0 auto; margin-bottom: 2%;}
+    
+    
+    
+    .plan-col{ width: 100%; margin: 2% auto;}
+    
+    .plan-box
+    { width: 65%;
+     margin: auto;
+     padding: auto; font-weight: 400; }
+    
+    .plan-intro-box{ text-align: center; }
+    
+    .city-photo
+    {  margin-top: 0px;
+    padding: 0 15% }
+    
+    .city h2{ margin-bottom: 30px;}
+    
+    .review-col{ padding: 0 10%}
+    
+    .hero-image-box{ padding: 6% }
+    
+    .text-cross span{ display: inline-block}
+    
+    .mobile-nav{
+        display: block;
+    }
+    
+    .main-nav{ display: none; margin-left: 10px; margin-top: 25px; float: right;}
+    
+    .main-nav li {
+        margin-left: 0;
+        margin-top: 0;
+        display: block;
+        border: 0;
+        padding: 5% 0;
+        
+    }
+    
+    .main-nav li a{
+        margin-right: 0;
+    }
+    
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited{
+    padding-bottom: 5px;
+    font-size: 80%; }
+
+.sticky .main-nav { margin-top: 5px; }
+    .sticky .mobile-nav{ margin-top: 5px; }
+ 
+    
+    
+}
+
+/* Small phones: from 0 to 480px*/
+@media only screen and (max-width: 480px){
+    
+    body{ font-size: 16px;}
+    
+    .logo{height: 70px;}
+    
+    .hero-image-box{ padding-left: 6%;}
+    
+    .app-photo{ width: 60%; margin: 0 20%; height: 300px; width: auto;}
+    
+    .plan-box{ width: 90%;}
+    
+    .button:link{ font-size: 80%; margin: 0}
+    
+     .review-col{ padding: 0 12%}
+    
+    .form-col-input{ margin-bottom: 15px;}
+    
+    .steps div
+    { height: 40px;
+    width: 40px;
+    font-size: 200%; }
+    
+    .reviewer-image{ height: 45px;  margin-right: 5px; }
+    
+    .reviewer{ font-size: 16px; font-weight: 400;}
+    
+    .review{ line-height: 110%; }
+    
+    .text-cross span{ display: inline-block;}
+    
+    
+    
+}
