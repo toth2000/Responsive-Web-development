@@ -6,7 +6,7 @@ We are happy to welcome all the contributions from anyone willing to improve thi
 - Before opening a new issue, please **check** if it is already created or not.
 - Pull requests will be merged after being **reviewed and tested**.
 - Create a pull request from a **branch** other than `master`,that means you have to create a new branch for every pull request.
-- The `master` branch contains all client side ReactJs code.
+- The `master` branch contains all the HTML and CSS code.
 - If your code is breaking mention it in the pull request.
 
 ### For any queries or discussions, please create a new discussion under the **Discussions** tab. 
