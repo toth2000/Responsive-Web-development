@@ -1,7 +1,7 @@
 # Responsive-Web-development
 
 A simple responsive website built using HTML 5 and CSS3. The website is based on a fictitious food delivery service. <br>
-[WEBSITE PREVIEW](https://toth2000.github.io/Responsive-Web-development/)
+[WEBSITE PREVIEW](https://tothagata.me/Responsive-Web-development/)
 
 ## Deployment
 
